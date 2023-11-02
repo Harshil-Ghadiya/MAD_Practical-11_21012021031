@@ -10,10 +10,10 @@ from network database in JSON format and loads data in ListView or RecyclerView.
 9.Call appropriate method of mainactivity after pressing buttons of toolbar.
 
 <b>Output :-</b>
-
+ 
 <b></b>-> Light Theme :-</b>
 
-![WhatsApp Image 2023-11-03 at 3 17 39 AM](https://github.com/Harshil-Ghadiya/MAD_Practical-11_21012021031/assets/122811629/29dd6254-61a7-4228-a8e3-f75b3e23f2b3)
+![WhatsApp Image 2023-11-03 at 3 17 39 AM](https://github.com/Harshil-Ghadiya/MAD_Practical-11_21012021031/assets/122811629/b6ec7080-942a-4946-92fe-931cb8706823)
 
 
 
