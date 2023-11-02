@@ -13,8 +13,8 @@ from network database in JSON format and loads data in ListView or RecyclerView.
  
 <b></b>-> Light Theme :-</b>
 
+![WhatsApp Image 2023-11-03 at 3 17 39 AM (1)](https://github.com/Harshil-Ghadiya/MAD_Practical-11_21012021031/assets/122811629/51c9cf72-d846-4a95-9d65-0cc5dd981c7b)
 
-![WhatsApp Image 2023-11-03 at 3 17 39 AM](https://github.com/Harshil-Ghadiya/MAD_Practical-11_21012021031/assets/122811629/191bf647-fe6e-45b2-9b1f-edb3f55d22bd)
 
 
 ![279874408-06813d02-12ab-4137-9542-47adeacd7ab7](https://github.com/Harshil-Ghadiya/MAD_Practical-11_21012021031/assets/122811629/29e9a2bf-b750-4cba-8ca2-ec8956dcf203)
