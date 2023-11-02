@@ -1,4 +1,4 @@
-# MAD_Practical-11_21012021031
+![WhatsApp Image 2023-11-03 at 4 09 17 AM](https://github.com/Harshil-Ghadiya/MAD_Practical-11_21012021031/assets/122811629/ba736871-b676-404b-87f2-d9249c2e8d40)# MAD_Practical-11_21012021031
 
 <b>AIM:</b> Consider Android Application created in Practical-10 and add Sqlite feature such that it is storing data of persons which is received in JSON Format.
 There should be two buttons: after pressing first button then data of persons loads from sqlite database. After pressing second button, it receives data
@@ -13,7 +13,9 @@ from network database in JSON format and loads data in ListView or RecyclerView.
  
 <b></b>-> Light Theme :-</b>
 
-![WhatsApp Image 2023-11-03 at 3 17 39 AM (1)](https://github.com/Harshil-Ghadiya/MAD_Practical-11_21012021031/assets/122811629/51c9cf72-d846-4a95-9d65-0cc5dd981c7b)
+
+![WhatsApp Image 2023-11-03 at 4 09 17 AM](https://github.com/Harshil-Ghadiya/MAD_Practical-11_21012021031/assets/122811629/098df30e-e831-4734-87a2-1c5e8f6d2fbc)
+
 
 
 
@@ -24,6 +26,8 @@ from network database in JSON format and loads data in ListView or RecyclerView.
 <b>-> Dark Theme :-</b>
 
 ![WhatsApp Image 2023-11-03 at 3 17 39 AM (1)](https://github.com/Harshil-Ghadiya/MAD_Practical-11_21012021031/assets/122811629/f8b9bb78-b8e9-45b9-a51c-d17d63cb070a)
+
+
 
 
 
