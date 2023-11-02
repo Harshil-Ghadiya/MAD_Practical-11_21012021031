@@ -1,4 +1,3 @@
-![WhatsApp Image 2023-11-03 at 4 09 17 AM](https://github.com/Harshil-Ghadiya/MAD_Practical-11_21012021031/assets/122811629/ba736871-b676-404b-87f2-d9249c2e8d40)# MAD_Practical-11_21012021031
 
 <b>AIM:</b> Consider Android Application created in Practical-10 and add Sqlite feature such that it is storing data of persons which is received in JSON Format.
 There should be two buttons: after pressing first button then data of persons loads from sqlite database. After pressing second button, it receives data
