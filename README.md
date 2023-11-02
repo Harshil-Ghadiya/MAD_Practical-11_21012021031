@@ -13,7 +13,7 @@ from network database in JSON format and loads data in ListView or RecyclerView.
 
 <b></b>-> Light Theme :-</b>
 
-![WhatsApp Image 2023-11-03 at 3 17 39 AM](https://github.com/Harshil-Ghadiya/MAD_Practical-11_21012021031/assets/122811629/4929b873-5ea2-4fcc-ba34-9383ac192dcb)
+![WhatsApp Image 2023-11-03 at 3 17 39 AM](https://github.com/Harshil-Ghadiya/MAD_Practical-11_21012021031/assets/122811629/29dd6254-61a7-4228-a8e3-f75b3e23f2b3)
 
 
 
@@ -23,11 +23,13 @@ from network database in JSON format and loads data in ListView or RecyclerView.
 
 <b>-> Dark Theme :-</b>
 
-![WhatsApp Image 2023-11-03 at 3 17 39 AM (1)](https://github.com/Harshil-Ghadiya/MAD_Practical-11_21012021031/assets/122811629/12dc98be-1a1e-4373-8578-71a7199322ef)
+![WhatsApp Image 2023-11-03 at 3 17 39 AM (1)](https://github.com/Harshil-Ghadiya/MAD_Practical-11_21012021031/assets/122811629/f8b9bb78-b8e9-45b9-a51c-d17d63cb070a)
 
 
 
-![279874525-6635856e-3460-42d6-b8d3-e1ab00c17776](https://github.com/Harshil-Ghadiya/MAD_Practical-11_21012021031/assets/122811629/60af7f31-a33c-44de-8cd2-07a0fcbb3a2b)
+
+![279874525-6635856e-3460-42d6-b8d3-e1ab00c17776](https://github.com/Harshil-Ghadiya/MAD_Practical-11_21012021031/assets/122811629/743f74a9-d001-4c9d-8b58-4d36e688adc3)
+
 
 
 
